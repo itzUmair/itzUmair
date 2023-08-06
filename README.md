@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Umair</h1>
+ <h1 align="center">Hi 👋, I'm Umair</h1>
 <h3 align="center">I am a fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzumair&label=Profile%20views&color=0e75b6&style=flat" alt="itzumair" /> </p>
 
 - 🌱 I’m currently learning **Node.js, React.js**
 
-- 👨‍💻 All of my projects are available at [muhammadumairkhan.vercel.app](muhammadumairkhan.vercel.app)
+- 👨‍💻 All of my projects are available at [muhammadumairkhan.vercel.app](https://muhammadumairkhan.vercel.app)
 
 - 📫 How to reach me **muhammadumair2511@gmail.com**
 
